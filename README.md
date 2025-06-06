@@ -47,13 +47,16 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 ```
+
+## Estructura del repositorio
+```
 consumo_precios_alimentos_espana/
 ├── Raw Data/ # Datos crudos
 ├── notebooks/ # Jupyter Notebooks
 ├── Filtered Data/ #Datos procesados
 ├── requirements.txt # Dependencias del proyecto
 └── README.md # Documentación del proyecto
-
+```
 Cada notebook representa una fase distinta del análisis.
 
 ---
