@@ -46,3 +46,36 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
+```
+
+
+
+Cada notebook representa una fase distinta del análisis.
+
+---
+
+## ¿Qué encontrarás en los notebooks?
+
+- 📌 Limpieza y unificación de datos provenientes del Ministerio de Agricultura y Pesca de España.
+- 📈 Análisis de la evolución histórica de precios y consumo per cápita desde el año 2000 hasta 2024.
+- 📉 Cálculo de variaciones porcentuales, acumuladas y comparación con el salario medio(2008-2023).
+- 📊 Visualizaciones gráficas de todas las tendencias relevantes.
+- 📎 Observaciones y anotaciones sobre inconsistencias en los datos oficiales.
+
+---
+
+## Conclusiones principales
+
+- El aumento en el precio de algunos alimentos como el *aceite de oliva* ha superado con creces la subida del salario medio.
+- El consumo de algunos productos ha disminuido de forma preocupante, posiblemente por razones económicas.
+- Se observa un desacoplamiento entre salario medio y coste alimentario en varios periodos.
+- Los datos del año 2024 presentan anomalías debidas a un cambio metodológico en la medición por parte del Ministerio, por lo que se han descartado del análisis final.
+
+---
+
+## Lecciones aprendidas durante este proyecto:
+
+- Importancia de entender el origen y la estructura de los datos antes de analizarlos.
+- Gestión de inconsistencias y duplicados en datasets reales.
+- Uso práctico de `pandas`, `seaborn` y `matplotlib` en análisis exploratorio.
+- Subida y documentación de proyectos en GitHub de forma clara y profesional.
