@@ -9,4 +9,5 @@ En este repositorio encontrarás algunos de mis proyectos personales, donde apli
 
 
 Autor: Elías (GitHub: [pancreas9000](https://github.com/pancreas9000))
+
 Mi LinkedIn: [linkedin.com/in/elías-zorrilla-galdón-a21780312](https://www.linkedin.com/in/el%C3%ADas-zorrilla-gald%C3%B3n-a21780312?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BR7PN2OVtSRyB4X%2FqUZjKGg%3D%3D)
