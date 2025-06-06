@@ -57,11 +57,11 @@ consumo_precios_alimentos_espana/
 ├── requirements.txt # Dependencias del proyecto
 └── README.md # Documentación del proyecto
 ```
-Cada notebook representa una fase distinta del análisis.
-
 ---
 
 ## ¿Qué encontrarás en los notebooks?
+
+Cada notebook representa una fase distinta del análisis.
 
 - 📌 Limpieza y unificación de datos provenientes del Ministerio de Agricultura y Pesca de España.
 - 📈 Análisis de la evolución histórica de precios y consumo per cápita desde el año 2000 hasta 2024.
