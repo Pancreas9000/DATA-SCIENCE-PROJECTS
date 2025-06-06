@@ -1,11 +1,9 @@
-<em> Analisis de Datos Históricos de consumo y precio en España (2000 - 2024)
-Visualización de los datos. </em>
 
 ![image](https://github.com/user-attachments/assets/b51b7742-e4ca-41a1-ba21-c89b6b0e0fd3)
 
 # 📈 Primer Proyecto de Análisis de Datos:  Analisis de Datos Históricos de consumo y precio en España (2000 - 2024)
 
-¡Bienvenido a mi primer proyecto de análisis de datos con Python!  
+¡Bienvenido a mi primer proyecto de análisis de datos con Python! Este proyecto es mi punto de partida antes de empezar a implementar ciencia de datos y machine learning en siguientes proyectos.   
 En este trabajo analizamos la evolución histórica del **consumo per cápita** y del **precio** de 9 alimentos consumidos en España entre los años 2000 y 2023.
 
 ---
