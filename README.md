@@ -15,7 +15,7 @@ A lo largo del proyecto, estudiaremos estos **9 alimentos** representativos de l
 - 🥩 *CARNE DE VACUNO*
 - 🍗 *CARNE DE POLLO*
 - 🐖 *CARNE DE CERDO*
-- 🫒 *ACEITE DE OLIVA*
+- 🌳 *ACEITE DE OLIVA*
 - 🍅 *TOMATES*
 - 🐟 *SALMÓN*
 - 🍚 *ARROZ*
