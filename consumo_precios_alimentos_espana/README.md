@@ -52,7 +52,7 @@ import seaborn as sns
 ```
 consumo_precios_alimentos_espana/
 ├── Raw Data/ # Datos crudos
-├── notebooks/ # Jupyter Notebooks
+├── Notebooks/ # Jupyter Notebooks
 ├── Filtered Data/ #Datos procesados
 ├── requirements.txt # Dependencias del proyecto
 └── README.md # Documentación del proyecto
