@@ -79,9 +79,9 @@ El análisis demuestra que  el **modelo polinomial de grado 2** logra capturar e
 ---
 
 ## Lecciones aprendidas durante este proyecto:
-- La visualización es clave: Los gráficos de dispersión revelaron relaciones no lineales entre variables que guiaron la selección del modelo.
-- Selección de variables, one hot encoding y transformaciones en modelos de regresión.
-- Múltiples métricas son esenciales: Evaluar con MAE, MSE, RMSE y R² proporcionó una visión completa del rendimiento real
-- El uso de múltiples métricas son esenciales: Evaluar con MAE, MSE, RMSE y R² proporcionó una visión completa del rendimiento real.
+- *La visualización es clave*: Los gráficos de dispersión revelaron relaciones no lineales entre variables que guiaron la selección del modelo.
+- *Selección de variables, one hot encoding y transformaciones en modelos de regresión*.
+- *Uso del Train-Test split*: Esencial para evaluar la capacidad de generalización
+- *El uso de múltiples métricas son esenciales*: Evaluar con MAE, MSE, RMSE y R² proporcionó una visión completa del rendimiento real.
 
 
