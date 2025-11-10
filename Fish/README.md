@@ -5,24 +5,34 @@
 ¡Bienvenido a mi segundo proyecto de datos con Python! Este proyecto es mi primera vez implementando modelos de machine learning simples como las regresiones.
 
 ---
-## 🐟 Variables estudiadas:
 
-- **Features (Variables dependientes):** Length1, Length2, Length3, Height,	Width y Specie:
-- *PERCH*
-- *BREAM*
-- *ROACH*    
-- *PIKE*     
-- *SMELT*    
-- *PARKKI*      
-- *WHITEFISH* 
-- **Response (Variable independiente):** Weight
-
----
 ## 🎯 Objetivo del proyecto
 
 El proyecto se centra en predecir el **peso de los peces** a partir de distintas medidas morfológicas **(longitudes, alto, ancho, etc.).** mediante un modelo de regresión exponencial y otro de regresión polinomial para después comprobar cual funciona mejor.
 
 --- 
+
+## 🐟 Variables Estudiadas
+
+### 🎯 Variable Objetivo
+**`Weight`** - Peso del pez (variable dependiente)
+
+### 📏 Variables Predictoras
+**Medidas de longitud:**
+- `Length1` 📏
+- `Length2` 📐  
+- `Length3` 📊
+
+**Otras dimensiones:**
+- `Height` 📏
+- `Width` 📐
+
+**Especie:** `Species` 🏷️
+
+### 🐠 Especies (7 tipos)
+`PERCH` • `BREAM` • `ROACH` • `PIKE` • `SMELT` • `PARKKI` • `WHITEFISH`
+
+---
 
 ## 🤖 Modelos comparados y métricas 
 Se evaluaron dos enfoques principales: 
