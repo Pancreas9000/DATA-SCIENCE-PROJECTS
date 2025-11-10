@@ -48,6 +48,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 ```
 
+---
+
 ## Estructura del repositorio
 ```
 consumo_precios_alimentos_espana/
@@ -61,7 +63,7 @@ consumo_precios_alimentos_espana/
 
 ## ¿Qué encontrarás en los notebooks?
 
-Cada notebook representa una fase distinta del análisis.
+Cada uno de los dos notebooks representa una fase distinta del análisis e incluyen:
 
 - 📌 Limpieza y unificación de datos provenientes del Ministerio de Agricultura y Pesca de España.
 - 📈 Análisis de la evolución histórica de precios y consumo per cápita desde el año 2000 hasta 2024.
