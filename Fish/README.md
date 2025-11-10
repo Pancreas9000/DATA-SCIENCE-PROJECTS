@@ -68,8 +68,8 @@ Se evaluaron dos enfoques principales:
 
 ## 🏆 Resultado principal 
 El **modelo polinomial de grado 2** obtuvo un mejor desempeño en las métricas de evaluación y presentó un comportamiento de residuales más estable y sin sesgos sistemáticos. Por ello, se seleccionó como **modelo definitivo** y se reentrenó utilizando **todos los datos disponibles**. Más tarde se exportó para su uso futuro: 
-- 📦 Modelo: fish_weight_prediction_poly_model.joblib
-- ⚙️ Transformador (PolynomialFeatures): final_converter.joblib 
+- 📦 Modelo: `fish_weight_prediction_poly_model.joblib`
+- ⚙️ Transformador (PolynomialFeatures): `final_converter.joblib` 
 
 --- 
 
@@ -79,9 +79,9 @@ El análisis demuestra que  el **modelo polinomial de grado 2** logra capturar e
 ---
 
 ## Lecciones aprendidas durante este proyecto:
+- La visualización es clave: Los gráficos de dispersión revelaron relaciones no lineales entre variables que guiaron la selección del modelo.
+- Selección de variables, one hot encoding y transformaciones en modelos de regresión.
+- Múltiples métricas son esenciales: Evaluar con MAE, MSE, RMSE y R² proporcionó una visión completa del rendimiento real
+- El uso de múltiples métricas son esenciales: Evaluar con MAE, MSE, RMSE y R² proporcionó una visión completa del rendimiento real.
 
-- Importancia de entender el origen y la estructura de los datos antes de analizarlos.
-- Gestión de inconsistencias y duplicados en datasets reales.
-- Uso práctico de `pandas`, `seaborn` y `matplotlib` en análisis exploratorio.
-- Subida y documentación de proyectos en GitHub de forma clara y profesional.
 
