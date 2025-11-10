@@ -1,4 +1,4 @@
-
+<img width="1332" height="1000" alt="image" src="https://github.com/user-attachments/assets/3f9ab645-b097-490f-b5ce-6ab4bb82f5b7" />
 
 # 📈 Segundo Proyecto de Análisis de Datos: Comparación de la eficacia de distintos métodos de Regresión al predecir el peso de diferentes especies de pescado
 
