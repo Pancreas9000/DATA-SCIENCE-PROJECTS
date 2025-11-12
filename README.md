@@ -3,7 +3,7 @@
 
 # Proyectos de Ciencia de Datos
 
-Hola 👋 Soy Elías, estudiante de Ciencia y Tecnología de los Alimentos y autodidacta en Ciencia de Datos.  
+Hola 👋 Soy Elías Zorrilla, estudiante de Ciencia y Tecnología de los Alimentos y autodidacta en Ciencia de Datos.  
 En este repositorio encontrarás algunos de mis proyectos personales, donde aplico análisis de datos, visualización y técnicas de machine learning, con un enfoque especial en el sector alimentario.
 
 
