@@ -9,6 +9,6 @@ In this repository you will find some of my personal projects, where I apply dat
 > **Note:** Some of the earlier projects in this repository are documented in Spanish. New projects, including my Bachelor’s Thesis (TFG), are documented in English.
 
 **Author:** Elías Zorrilla Galdón  
-**GitHub:** [pancreas9000](https://github.com/pancreas9000)
+**GitHub:** [eliaszorrilla](https://github.com/pancreas9000)
 
 Mi LinkedIn: [linkedin.com/in/elías-zorrilla-galdón-a21780312](https://www.linkedin.com/in/el%C3%ADas-zorrilla-gald%C3%B3n-a21780312?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BR7PN2OVtSRyB4X%2FqUZjKGg%3D%3D)
