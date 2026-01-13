@@ -6,7 +6,7 @@
 Hi 👋 I’m Elías Zorrilla, a Food Science and Technology student and self-taught Data Science practitioner.  
 In this repository you will find some of my personal projects, where I apply data analysis, data visualization, and machine learning techniques, with a special focus on the food sector.
 
-> **Note:** Some of the earlier projects in this repository are documented in Spanish. New projects, including my Bachelor’s Thesis (TFG), are documented in English.
+> **Note:** Some of the earlier projects in this repository are documented in Spanish. New projects, will be documented in English.
 
 **Author:** Elías Zorrilla Galdón  
 **GitHub:** [eliaszorrilla](https://github.com/eliaszorrilla)
